@@ -44,7 +44,7 @@ function Todo() {
 
         <div className='h-screen  bg-blue-300 flex flex-col justify-center items-center gap-x-3 '>
 
-            {/* {errorMessage && <div className='flex justify-center lg:mx-2 mx-12 '><p className=' text-white bg-red-500 p-3 rounded-lg'>{errorMessage}</p></div>} */}
+           
             <div className="flex justify-between items-center gap-x-2  lg:h-1/4 h-12 lg:w-2/6 w-4/6   lg:px-2  lg:mx-0 mx-12 ">
 
                 <input type="text" name="text" className="text-white lg:mt-3 sm:mt-10 px-3 py-2 bg-zinc-800 border-3 shadow-sm
