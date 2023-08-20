@@ -6,7 +6,7 @@ import { toast } from 'react-toastify';
 
 function Todo() {
     const [inputValue, SetinputValue] = useState('');
-    const [errorMessage, SeterrorMessage] = useState('');
+    // const [errorMessage, SeterrorMessage] = useState('');
     const [items, Setitems] = useState([])
 
     const customId = "custom-id-toast_id";
